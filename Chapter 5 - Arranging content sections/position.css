@@ -1,0 +1,30 @@
+/* Remove default browser styles */
+* { padding:0; margin:0; border:0; } 
+
+header,main,footer,nav,section,article,p	{
+border:1px solid black; margin:5px;
+}
+
+header	{ 
+background:#EE82EE;
+}
+
+main	{
+	background:#90EE90;
+}
+
+footer	{
+	background:#ADD8E6;
+}
+
+nav,p {
+	background:#FFFFFF;
+}
+
+section	{
+	background:#F0E68C;
+}
+
+article	{
+	background:#FF6347;
+}
